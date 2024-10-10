@@ -1,4 +1,6 @@
-#Software Requirements Specification (SRS) for Stock Trading Simulation System
+Software Requirements Specification (SRS) for Stock Trading Simulation System
+
+
 Table of Contents:
 1. Introduction
    - 1.1 Purpose
