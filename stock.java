@@ -1,3 +1,5 @@
+// Code for Stock Trading Simuation in Java
+// Authored by: Anshuman Sinha
 import java.util.*;
 import java.util.Timer;
 import java.util.concurrent.ConcurrentHashMap;
