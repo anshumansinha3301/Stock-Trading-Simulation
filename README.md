@@ -156,3 +156,4 @@ No external APIs or interfaces are required in this version of the system. All d
 
 6. Other Requirements
 The system may require integration with a financial data API in future versions to provide real-time stock prices and news.
+(Open Source Project for Hacktoberfest2024)
